@@ -1,0 +1,41 @@
+Model Outputs:
+
+1. Decision Tree:
+    Mean : 4.099793523881351
+    Standard deviatiuon : 0.687998431704848
+
+2. Linear Regression:
+    Mean : 5.030437102767304
+    Standard deviatiuon : 1.0607661158294834
+
+3. Random Forest Regression:
+    Mean : 3.3420065655124085
+    Standard deviatiuon : 0.659389609540156
+    
+4. Gradient Boosting Regression:
+    Mean : 3.042880490468474
+    Standard deviatiuon : 0.722599723546544
+    
+5. Extra Trees Regression:
+    Mean : 3.30558441367923
+    Standard deviatiuon : 1.1207138573322555
+    
+6. Bagging Regression:
+    Mean : 3.6045138348194987
+    Standard deviatiuon : 0.7780136464786637
+    
+7. Gaussian Process Regression:
+    Mean : 7.250008128129896
+    Standard deviatiuon : 2.416480356002073
+    
+8. ARD Regression:
+    Mean : 5.054600212445362
+    Standard deviatiuon : 1.0694502536961084
+    
+9. Huber Regression:
+    Mean : 5.155992421644861
+    Standard deviatiuon : 1.347926623709783
+
+10. Ada Boost Regression:
+    Mean : 3.7549453353053353
+    Standard deviatiuon : 0.7420286622910605
