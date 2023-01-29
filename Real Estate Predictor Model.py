@@ -42,7 +42,7 @@ housing.describe()
 # In[7]:
 
 
-get_ipython().run_line_magic('matplotlib', 'inline')
+# get_ipython().run_line_magic('matplotlib', 'inline')
 
 
 # In[8]:
